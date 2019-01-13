@@ -41,7 +41,7 @@ minecraft {
     useDepAts = true
 
 	replace "@VERSION@", buildVersion
-	replaceIn "SimpleZoom.java"
+	replaceIn "EvilEarth.java"
 }
 
 processResources {
