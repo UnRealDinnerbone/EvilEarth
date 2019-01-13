@@ -1,0 +1,16 @@
+[
+{
+  "modid": "evilearth",
+  "name": "Evil Earth 2",
+  "description": "Evil Earth",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["UnRealDinnerbone"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

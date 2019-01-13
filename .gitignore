@@ -1,0 +1,12 @@
+# Ignore All Files
+/*
+# Included Folders
+!/src
+
+# Included Files
+!.gitignore
+!build.gradle
+!LICENSE.md
+!README.md
+!gradlew.bat
+!gradlew
